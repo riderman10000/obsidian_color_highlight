@@ -6,3 +6,13 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+
+.my-plugin-ribbon-class{
+    --icon-size: var(--icon-size-m);
+    --icon-color: #1ed218;
+    --icon-color-hover:  #d21818;
+}
+
+.red_color{
+    color: red;
+}
